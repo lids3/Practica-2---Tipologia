@@ -10,6 +10,8 @@ Pràctica 2 HTML: fitxer html amb la resolució dels diferents apartats de la pr
 
 Pràctica 2 RMD: fitxer R Markdown amb el codi executable que s'ha escrit per realitzar la pràctica.
 
+practica 2 PDF: document pdf amb la resolució dels diferents apartats de la pràctica.
+
 train.csv: dataset inicial
 
 Titanic_updated: dataset final
